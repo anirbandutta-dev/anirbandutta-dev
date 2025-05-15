@@ -86,12 +86,10 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" style="filter: invert(100%);" />
   </a>&nbsp;&nbsp;
-<a href="https://vercel.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel" style="filter: brightness(0) invert(1);" />
+
+ <a href="https://vercel.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel" style="filter: invert(100%);" />
 </a>&nbsp;&nbsp;
-
-
-
 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" style="filter: invert(100%);" />
