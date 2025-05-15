@@ -35,23 +35,62 @@
 ### Languages and Tools:
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="40" height="40" alt="Next.js"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
-  <a href="https://mongoosejs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB/Mongoose"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel"/></a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" style="filter: invert(100%);" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" width="40" height="40" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" style="filter: invert(73%) sepia(74%) saturate(1558%) hue-rotate(358deg) brightness(105%) contrast(105%);" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" style="filter: invert(31%) sepia(100%) saturate(1237%) hue-rotate(183deg) brightness(97%) contrast(103%);" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="filter: invert(84%) sepia(79%) saturate(749%) hue-rotate(351deg) brightness(101%) contrast(96%);" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" style="filter: invert(61%) sepia(77%) saturate(495%) hue-rotate(128deg) brightness(90%) contrast(91%);" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" style="filter: invert(49%) sepia(79%) saturate(1181%) hue-rotate(308deg) brightness(91%) contrast(101%);" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" width="40" height="40" alt="Next.js" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" style="filter: invert(59%) sepia(91%) saturate(348%) hue-rotate(70deg) brightness(89%) contrast(86%);" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://mongoosejs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" style="filter: invert(56%) sepia(93%) saturate(333%) hue-rotate(71deg) brightness(91%) contrast(87%);" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" style="filter: invert(67%) sepia(71%) saturate(433%) hue-rotate(122deg) brightness(89%) contrast(87%);" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" style="filter: invert(27%) sepia(99%) saturate(2298%) hue-rotate(247deg) brightness(98%) contrast(93%);" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" style="filter: invert(100%);" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel" style="filter: invert(100%);" />
+  </a>
 </p>
-
----
 
 ### GitHub Stats:
 
