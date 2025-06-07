@@ -48,8 +48,7 @@
   </a>&nbsp;&nbsp;
 
 <a href="https://expressjs.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" style="filter: invert(100%);" />
-</a>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" style="filter: invert(73%) sepia(74%) saturate(1558%) hue-rotate(358deg) brightness(105%) contrast(105%);" />  </a>&nbsp;&nbsp;
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" style="filter: invert(31%) sepia(100%) saturate(1237%) hue-rotate(183deg) brightness(97%) contrast(103%);" />
