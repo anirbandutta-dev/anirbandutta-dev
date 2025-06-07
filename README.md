@@ -12,7 +12,7 @@
 * 👯 I'm looking to collaborate on **open source projects**
 * 💬 Ask me about **React, Next.js, or full stack development**
 * 📫 How to reach me: **[duttanirban01@gmail.com](mailto:duttanirban01@gmail.com)**
-* ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+* ⚡ Fun fact: **Build WEbsites For Startup With Perfection**
 
 ---
 
